@@ -27,7 +27,7 @@ Send a message in the conversation
  use react hooks ONLY.
  the redux data persistent such that after refresh, the messages and conversations are intact.
 
-![Screenshot (1)]([https://github.com/kfaizan0496/react_chatApp/assets/113850768/42865713-cc17-4222-9537-63b1e889d7c3](https://github.com/kpraveenkumarece/ReactChatApp/blob/main/src/images/chatapphome1.PNG))
+![Screenshot (1)](https://github.com/kpraveenkumarece/ReactChatApp/blob/main/src/images/chatapphome1.PNG)
 
 
 
